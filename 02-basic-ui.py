@@ -13,7 +13,7 @@ if button:
 # 파일 다운로드 버튼
 # 샘플 데이터 생성
 dataframe = pd.DataFrame({
-    'first column': [1, 2, 3, 4],
+    'first column': [1, 2, 3, 4, 5],
     'second column': [10, 20, 30, 40],
 })
 
